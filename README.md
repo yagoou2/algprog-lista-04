@@ -17,7 +17,7 @@ Repositório dedicado à resolução de exercícios de estruturas de repetição
       <p>Peça uma nota entre zero e dez. Mostre uma mensagem caso o valor seja inválido e continue pedindo até que o usuário informe um valor válido.</p>
     </td>
     <td width="50%">
-      <img src="./exemplos/exercicio01.gif" alt="Demonstração Exercício 01">
+      <img src="./exemplos/exercicio1.gif" alt="Demonstração Exercício 01">
     </td>
   </tr>
 </table>
@@ -29,7 +29,7 @@ Repositório dedicado à resolução de exercícios de estruturas de repetição
       <p>Lê um nome de usuário e a sua senha e não aceita a senha igual ao nome do usuário, exibindo erro e voltando a pedir as informações.</p>
     </td>
     <td width="50%">
-      <img src="./exemplos/exercicio02.gif" alt="Demonstração Exercício 02">
+      <img src="./exemplos/exercicio2.gif" alt="Demonstração Exercício 02">
     </td>
   </tr>
 </table>
@@ -41,7 +41,7 @@ Repositório dedicado à resolução de exercícios de estruturas de repetição
       <p>Valida os campos: <b>Nome</b> (>3 caracteres), <b>Idade</b> (0-150), <b>Salário</b> (>0), <b>Sexo</b> (f/m) e <b>Estado Civil</b> (s, c, v, d).</p>
     </td>
     <td width="50%">
-      <img src="./exemplos/exercicio03.gif" alt="Demonstração Exercício 03">
+      <img src="./exemplos/exercicio3.gif" alt="Demonstração Exercício 03">
     </td>
   </tr>
 </table>
@@ -53,7 +53,7 @@ Repositório dedicado à resolução de exercícios de estruturas de repetição
       <p>Calcula o tempo necessário para que a população do país A (80.000) ultrapasse a do país B (200.000) com base em suas taxas anuais de crescimento.</p>
     </td>
     <td width="50%">
-      <img src="./exemplos/exercicio04.gif" alt="Demonstração Exercício 04">
+      <img src="./exemplos/exercicio4.gif" alt="Demonstração Exercício 04">
     </td>
   </tr>
 </table>
@@ -65,7 +65,7 @@ Repositório dedicado à resolução de exercícios de estruturas de repetição
       <p>Versão dinâmica do exercício anterior, permitindo que o usuário informe as populações e taxas iniciais com validação.</p>
     </td>
     <td width="50%">
-      <img src="./exemplos/exercicio05.gif" alt="Demonstração Exercício 05">
+      <img src="./exemplos/exercicio5.gif" alt="Demonstração Exercício 05">
     </td>
   </tr>
 </table>
@@ -77,7 +77,7 @@ Repositório dedicado à resolução de exercícios de estruturas de repetição
       <p>Imprime os números de 1 a 20 de duas formas: verticalmente (um abaixo do outro) e horizontalmente (lado a lado).</p>
     </td>
     <td width="50%">
-      <img src="./exemplos/exercicio06.gif" alt="Demonstração Exercício 06">
+      <img src="./exemplos/exercicio6.gif" alt="Demonstração Exercício 06">
     </td>
   </tr>
 </table>
@@ -89,7 +89,7 @@ Repositório dedicado à resolução de exercícios de estruturas de repetição
       <p>Lê 5 números e informa ao usuário qual foi o maior valor digitado durante a execução do programa.</p>
     </td>
     <td width="50%">
-      <img src="./exemplos/exercicio07.gif" alt="Demonstração Exercício 07">
+      <img src="./exemplos/exercicio7.gif" alt="Demonstração Exercício 07">
     </td>
   </tr>
 </table>
@@ -101,7 +101,7 @@ Repositório dedicado à resolução de exercícios de estruturas de repetição
       <p>Lê 5 números e apresenta o resultado da soma total e o cálculo da média aritmética entre eles.</p>
     </td>
     <td width="50%">
-      <img src="./exemplos/exercicio08.gif" alt="Demonstração Exercício 08">
+      <img src="./exemplos/exercicio8.gif" alt="Demonstração Exercício 08">
     </td>
   </tr>
 </table>
@@ -113,7 +113,7 @@ Repositório dedicado à resolução de exercícios de estruturas de repetição
       <p>Algoritmo que percorre o intervalo de 1 a 50 e imprime na tela apenas os valores que são ímpares.</p>
     </td>
     <td width="50%">
-      <img src="./exemplos/exercicio09.gif" alt="Demonstração Exercício 09">
+      <img src="./exemplos/exercicio9.gif" alt="Demonstração Exercício 09">
     </td>
   </tr>
 </table>
